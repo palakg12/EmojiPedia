@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+A Glimpse of emojiPedia .
+
+https://github.com/palakg12/EmojiPedia-using-react/assets/115335427/cfeccc0b-2822-4104-98e7-de18ab1d501c
+
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
